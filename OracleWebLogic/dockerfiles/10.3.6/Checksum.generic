@@ -1,0 +1,6 @@
+# Download from https://www.oracle.com/technetwork/java/javase/downloads/java-archive-downloads-javase7-521261.html
+b516630a940d83b066cf1e6479ec59fe  jdk-7u80-linux-x64.rpm
+# Download from http://www.oracle.com/technetwork/middleware/weblogic/downloads/wls-main-097127.html
+# Extract file wls1036_generic.jar from inside wls1036_linux32.bin. You can use unzip.
+#
+33d45745ff0510381de84427a7536f65  wls1036_generic.jar
